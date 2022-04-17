@@ -1,0 +1,26 @@
+module.exports = {
+Users : "<:Users:876223312232067122> - ",
+Servers : "<:Servers:876223312227885076> - ",
+CreatedAt : "<:Created:876223312294981643> - ",
+Channels : "<:Channels:876223312068505612> - ",
+Uptime : "<:Settings:876223311909117992> - ",
+Wait : "<a:wait:882988258861121627> - ",
+Sparkles : "✨ - ",
+Error : "❌ - ",
+Mega : "📣 - ",
+Discovery : "<:Discovery:876223312181751829> - ",
+Discord : "<:Discord:876223312060112896> - ",
+Ping : "🏓 - ",
+Cooldown : "⏱️ - ",
+Perms : "🙄 - ",
+Con : "😕 - ",
+Check  : "✅ - ",
+Party : "🥳 - ",
+Thinking : "🤔 - ",
+Coin : ":coin: - ",
+Coin2 : ":coin:",
+Mail : "📫 - ",
+Time : "⌛ - ",
+Wink : "😉 - "
+
+}
